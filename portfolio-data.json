@@ -1,0 +1,123 @@
+{
+  "name": "Senpai",
+  "github": "prshnnt",
+  "linkedin": "prshnnt",
+  "linkedinUrl": "https://www.linkedin.com/in/prashant-singh-0263622b3/",
+  "avatar": "https://avatars.githubusercontent.com/u/171008594?v=4",
+  "bio": "Developer building games, RAG systems, and web apps",
+  "location": "",
+  "blog": "",
+  "company": "",
+  "githubUrl": "https://github.com/prshnnt",
+  "followers": 1,
+  "following": 1,
+  "memberSince": "2024-05-28",
+  "publicRepos": 11,
+  "repositories": [
+    {
+      "name": "NarutoGame",
+      "description": "NarutoGame using pygame-ce module with inspired code from previous test repository, a game which is incomplete and i created it DinoGame",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/prshnnt/NarutoGame",
+      "topics": []
+    },
+    {
+      "name": "DFA_simulator",
+      "description": "",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/prshnnt/DFA_simulator",
+      "topics": []
+    },
+    {
+      "name": "C-Games",
+      "description": "Project containing multiple Windows api Based Graphical or Terminal Games.Project is based on C language.",
+      "language": "C",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/prshnnt/C-Games",
+      "topics": []
+    },
+    {
+      "name": "DinoGame",
+      "description": "DinoGame made with pygame-ce",
+      "language": "Python",
+      "stars": 1,
+      "forks": 0,
+      "url": "https://github.com/prshnnt/DinoGame",
+      "topics": []
+    },
+    {
+      "name": "LegalGPT",
+      "description": "Legal GPT RAG system",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/prshnnt/LegalGPT",
+      "topics": ["rag", "gpt", "legal"]
+    },
+    {
+      "name": "rag",
+      "description": "",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/prshnnt/rag",
+      "topics": []
+    },
+    {
+      "name": "SIH",
+      "description": "",
+      "language": "Python",
+      "stars": 2,
+      "forks": 0,
+      "url": "https://github.com/prshnnt/SIH",
+      "topics": []
+    },
+    {
+      "name": "sih_ps_rag",
+      "description": "RAG for SIH released PS for faster search and undersatnding",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/prshnnt/sih_ps_rag",
+      "topics": ["rag"]
+    },
+    {
+      "name": "portfolio",
+      "description": "My Portfolio",
+      "language": "HTML",
+      "stars": 1,
+      "forks": 0,
+      "url": "https://github.com/prshnnt/portfolio",
+      "topics": []
+    },
+    {
+      "name": "blogizer",
+      "description": "A blogging app where you can connect with your friends, it is completly written in python and reactjs",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/prshnnt/blogizer",
+      "topics": ["blog", "react", "python"]
+    },
+    {
+      "name": "PY-Game-Engine",
+      "description": "Gametools for creating game in pygame",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/prshnnt/PY-Game-Engine",
+      "topics": ["pygame", "game-engine"]
+    }
+  ],
+  "skills": {
+    "languages": ["Python", "C", "TypeScript", "JavaScript"],
+    "frameworks": ["React", "pygame", "Node.js"],
+    "concepts": ["RAG systems", "Game Development", "Windows API", "Web Development"]
+  },
+  "featuredProjects": ["LegalGPT", "blogizer", "SIH", "C-Games", "PY-Game-Engine", "NarutoGame"]
+}
