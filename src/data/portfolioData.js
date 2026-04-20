@@ -2,7 +2,7 @@ export const portfolioData = {
   name: "Senpai",
   github: "prshnnt",
   linkedinUrl: "https://www.linkedin.com/in/prashant-singh-0263622b3/",
-  avatar: "https://avatars.githubusercontent.com/u/171008594?v=4",
+  avatar: "/src/assets/IMG-20251002-WA0114.jpg",
   bio: "Developer building games, RAG systems, and web apps. Passionate about game development and AI.",
   tagline: "Developer / Game Builder / AI Enthusiast",
   githubUrl: "https://github.com/prshnnt",
